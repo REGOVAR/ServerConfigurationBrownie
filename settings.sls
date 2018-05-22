@@ -1,4 +1,5 @@
 hostname: Brownie
+# TODO network interfaces
 smtp_host: mail.gandi.net
 smtp_port: 465
 smtp_user: admin@regovar.org
@@ -19,4 +20,4 @@ users:
     id: 1001
     ssh: True
     sudo: True
-# TODO network interfaces
+omim_api_key:
