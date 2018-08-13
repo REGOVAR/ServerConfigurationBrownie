@@ -1,4 +1,6 @@
 hostname: Brownie
+public_hostname: 127.0.0.1
+public_port: 8500
 smtp_host: mail.gandi.net
 smtp_port: 465
 smtp_user: admin@regovar.org
